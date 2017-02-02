@@ -1,1 +1,1 @@
-# golang-xiaomi-smart-home-mqtt
+# Xiaomi (Aqara) Smart Home Gateway MQTT Golang package
